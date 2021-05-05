@@ -1,0 +1,22 @@
+{
+    "name": "mana-theme",
+    "displayName": "Mana Theme",
+    "description": "Love u my girl",
+    "version": "0.0.1",
+    "publisher": "ManaTheme",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mana Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mana Dark-color-theme.json"
+            }
+        ]
+    }
+}
