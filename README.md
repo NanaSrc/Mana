@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "mana-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Mana
+[PT-BR] Esse tema foi desenvolvido apenas como uma piada interna com um amigo e por enquanto não pretende se tornar algo sério **Aproveite**
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+[EN-US] This theme was developed only as an internal joke with a friend and for now does not intend to become something serious **Enjoy**
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Instalação/ Installation
+[PT-BR] Se você realmente vai instalar isso é só olhar no **marketplace** do VS Code que vai achar.
 
-**Enjoy!**
+[EN-US] If you really will install this, you only need to search in the **marketplace** of VS code. 

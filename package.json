@@ -4,6 +4,17 @@
     "description": "Love u my girl",
     "version": "0.0.1",
     "publisher": "ManaTheme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcotduenas/Mana-Theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "mana",
+        "Mana",
+        "mana theme"
+    ],
     "engines": {
         "vscode": "^1.55.0"
     },
