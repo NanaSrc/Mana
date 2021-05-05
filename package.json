@@ -1,8 +1,10 @@
 {
     "name": "mana-theme",
     "displayName": "Mana Theme",
-    "description": "Love u my girl",
-    "version": "0.0.1",
+    "description": "Hope you enjoy",
+    "author": "Marco Tulio",
+    "icon": "icon.png",
+    "version": "0.2.0",
     "publisher": "ManaTheme",
     "repository": {
         "type": "git",
